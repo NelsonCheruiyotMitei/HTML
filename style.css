@@ -1,0 +1,31 @@
+h1 {
+
+  font-family: 'Georgia', serif; /* Use a serif font for a classic look */
+
+  font-size: 3em;  /* Increase font size */
+
+  text-align: center; /* Center align the title */
+
+}
+
+p {
+
+  padding: 1em;/* Add space around the text */
+
+  color: #666; /* Use a lighter gray color */
+
+  text-align: center; /* Center align the paragraph */
+
+}
+
+img {
+
+    border: 2px solid #ddd; /* Add a solid gray border */
+
+    display: block; /* Removes bottom margin space if the image is inside inline content. This is needed to center the img */
+
+    margin: 0 auto; /* Centers the image horizontally */
+
+    width: 33.33%; /* Set the width to one-third of the screen */
+
+}
